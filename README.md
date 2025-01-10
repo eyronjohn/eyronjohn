@@ -1,6 +1,6 @@
 <h1>👋 Hi, I'm Aaron! </h1>
 
-👨‍💻 A Sophomore student, specilizing in Web Development and Cloud Computing<br/>
+👨‍💻 A Sophomore student, specializing in Web Development and Cloud Computing<br/>
 👨‍🎓 Studies Information Technology at the Bulacan State University, Philippines<br/>
 💭 Currently learning about front-end development!<br/>
 
