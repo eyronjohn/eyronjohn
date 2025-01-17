@@ -1,9 +1,12 @@
 ## Hi there, I'm Aaron John 👋🐱💻
 
--👨‍💻 An undergraduate student, specializing in Web Development and Cloud Computing<br/>
--👨‍🎓 Studies Information Technology at the Bulacan State University, Philippines<br/>
--💭 Currently learning about front-end development!<br/>
-- 📫 Connect with me: [LinkedIn](www.linkedin.com/in/aaron-john-bitara)
+<ul>
+  <li>👨‍💻 An undergraduate student, specializing in Web Development and Cloud Computing</li>
+  <li>👨‍🎓 Studies Information Technology at the Bulacan State University, Philippines</li>
+  <li>💭 Currently learning about front-end development!</li>
+  <li>📫 Connect with me: [LinkedIn](www.linkedin.com/in/aaron-john-bitara)</li>
+</ul>
+
 
 # 📊 GitHub Stats:
 ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyronjohn&show_icons=true&theme=tokyonight)
