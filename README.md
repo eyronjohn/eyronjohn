@@ -1,9 +1,7 @@
 ## Hi there, I'm Aaron John 👋🐱💻
 
 <ul>
-  <li>👨‍🎓 An undergraduate student, specializing in Web Development and Cloud Computing</li>
   <li>🏫 Studies Information Technology at the Bulacan State University, Philippines</li>
-  <li>🖥️ Currently learning about front-end development!</li>
   <li>📫 Connect with me: <a href="https://www.linkedin.com/in/aaron-john-bitara"> Linkedin</li>
 </ul>
 
