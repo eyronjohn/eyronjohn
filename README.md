@@ -3,7 +3,7 @@
 
 ## 💼 About Me
 
-- 🎓 **BS Information Technology**, Bulacan State University 
+- 🎓 **BS Information Technology** Student, Bulacan State University 
 ---
 
 ## 🔧 Technologies & Tools
@@ -21,11 +21,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyronjohn&show_icons=true&theme=tokyonight)
 
 ---
 
