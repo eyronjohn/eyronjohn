@@ -1,8 +1,8 @@
 <!-- GitHub Profile README -->
 
 # 🏄‍♂️ Hi, I'm Aaron!
-🎓 Junior Information Technology student at the **Bulacan State Univerity** – Malolos City, Bulacan.<br/>
-💻 Aspiring software developer passionate about impactful solutions for the community.<br/>
+🎓 Junior Information Technology student at **Bulacan State Univerity** – Malolos City, Bulacan.<br/>
+💻 Aspiring software developer passionate in community building.<br/>
 🐍 Currently exploring **Laravel**, a PHP-based web framework.<br/>
 
 ## 🌐 Socials:
